@@ -4,6 +4,8 @@ Zamiast pisać wszędzie prawie ten sam regulamin przy każdym strimie lepiej zr
 
 Dyskusja: http://strims.pl/s/Strims/t/2wdlsy/ors-czyli-otwarty-regulamin-strimow
 
+Regulamin w formacie txt: https://raw.github.com/altruista/strims-ors/master/regulamin.txt
+
 Wszelka modyfikacja dozwolona.
 
 -----

@@ -10,7 +10,7 @@ Wszelka modyfikacja dozwolona.
 
 -----
 
-Aby użyć ORM wpisz w sidebarze:
+Aby użyć ORS wpisz w sidebarze:
 
     **Regulamin**
     Strim korzysta z [Otwartego Regulaminu Strimów](https://raw.github.com/altruista/strims-ors/master/regulamin.txt)

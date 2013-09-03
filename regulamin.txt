@@ -6,7 +6,9 @@
 ---------------------------------------
 
 1. Ten strim jest miejscem otwartej dyskusji 
+
 2. Zapoznaj się z obyczajami w tym strimie zanim weźmiesz udział
+
 3. W strimie należy przestrzegać zasad netykiety
 a) Zakaz obrażania innych użytkowników. Bądź też kulturalny, nie musisz bluzgać
 b) Pisz na temat, nie pisz off-topicu
@@ -14,14 +16,25 @@ c) Nie pisz komentarz pod komentarz, skorzystaj z opcji "edytuj"
 d) Nie wołaj ludzi via "@" jeśli sobie tego nie życzą
 e) Nie pisz wielkimi literami. 
 f) Pisz starannie, dzisiejsze przeglądarki poprawiają błędy ortograficzne
+
 4. Nie dodawaj chamskich duplikatów. 
+
 5. DV służy do oznaczania treści jako bardzo słabe i/lub nie pasujące do tego strimu
+
 6. Sugestie na temat strimu kierować we wpisach, lub prywatnej wiadomości do moderatorów.
+
 7. Dodawaj etykiety (jeśli dostępne)
+
 8. Czytelnie oznaczaj reposty w postaci: (x-post z s/*)
+
 9. Wszelkie boty są zabronione. Tutaj oceniać i dodawać mogą tylko ludzie.
+
 10. Nie spamuj. Dodawaj treści ze swojej strony ale tylko jeśli myślsiz że tutaj to pasuje, i treść jest ciekawa.
+
 11. Treści nie pasujące do strimu będą usuwane. Upewnij się czy na pewno to co dodajesz tutaj pasuje.
+
 12. Użytkownicy ignorujący zasady strimu będą banowani. 
+
 13. Bany są przyznawane jedynie za permanentne łamanie regulaminu, bądź ogólne nieprzystosowanie do uczestnictwa w tego typu serwisach
+
 14. Każdy zbanowany użytkownik ma prawo do zgłoszenia się do moderatora i wyjaśnienia sytuacji.

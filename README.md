@@ -2,7 +2,7 @@
 
 Zamiast pisać wszędzie prawie ten sam regulamin przy każdym strimie lepiej zrobić jeden dobry.
 
-Dyskusja: 
+Dyskusja: http://strims.pl/s/Strims/t/2wdlsy/ors-czyli-otwarty-regulamin-strimow
 
 Wszelka modyfikacja dozwolona.
 

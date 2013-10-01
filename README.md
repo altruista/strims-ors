@@ -1,8 +1,5 @@
 ## Otwarty Regulamin Strimów
 
-> 1. Bo moderator ma zawsze rację
-> 2. A jeśli nie ma patrz punkt pierwszy.
-
 Zamiast pisać wszędzie prawie ten sam regulamin przy każdym strimie lepiej zrobić jeden dobry.
 
 Dyskusja: http://strims.pl/s/Strims/t/2wdlsy/ors-czyli-otwarty-regulamin-strimow
